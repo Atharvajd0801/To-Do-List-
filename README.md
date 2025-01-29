@@ -1,4 +1,4 @@
-#Commands to install#
+#Commands to install
 #1) git clone https://github.com/Atharvajd0801/To-Do-List-
 #2) npm install 
 #3) npm run dev
